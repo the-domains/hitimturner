@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HiTimTurner]]></title>
+        <description><![CDATA[HiTimTurner]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 22:44:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gymnastic Strength Training Assessment Day]]></title>
+            <description><![CDATA[<p>Front lever knew I was in trouble on the first rep core was shaking almost immediately. Mobility felt great. Slowed t down a bit more than the videos version. Third rep barely made it through with good form. Got through all five reps which surprised me. Arms did shake a bit but not enough to discount to bad form. Well try level two next. During the cat stretches I am already noticing some tightness in my lower back.</p>]]></description>
+            <link>undefinedgymnastic-strength-training-assessment-day/index.html</link>
+            <guid isPermaLink="false">2f88dbcd-7596-4e86-b85e-c84b4d4975ab</guid>
+            <pubDate>Tue, 09 Aug 2016 22:44:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
